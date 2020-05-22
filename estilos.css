@@ -1,0 +1,117 @@
+
+.parent{
+    width: 1519px;
+    height: 1320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.my-carousel{
+    width: 1519px;
+    height: 891px;
+}
+
+.mimg2{
+    width: 100%;
+    height: 891px;
+}
+
+act{
+    width: 1535px;
+    height: 100%;
+}
+
+.mimg{
+    width: 150px;
+    height: 75px;
+}
+
+.myj{
+    background-image: url(./assets/bg.jpg);
+}
+
+.myjb{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.cimg{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+.mcard{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Planes */
+
+.parent2{
+    height: 610px;
+    width: 1519px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+footer{
+    border: 1px solid black;
+    background-image: url(./assets/ft114.jpg);
+    height: 100px;
+    width: 1519px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fp1{
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fp2{
+    border: 1px solid black;
+    height: 100px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.time{
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 35px;
+    color: rgb(182, 204, 197);
+}
+
+.time2{
+    font-family: 'Bungee Shade', cursive; 
+    font-size: 25px;
+    color: rgb(182, 204, 197);
+}
+
+.icono{
+    height: 75px;
+    width: 75px;
+}
+
+.mfc{
+    width: 240px;
+}
+
+.mc{
+    align-items: center;
+    
+}
