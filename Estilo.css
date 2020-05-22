@@ -1,0 +1,15 @@
+.logo{
+    width: 200px;
+    height: 70px;
+}
+.contenedorP{
+    display:flex;
+    justify-content:center;
+  }
+  .contenedorH{
+    margin-top:100px;
+    width:500px;
+    height:500px;
+  }
+  
+  
